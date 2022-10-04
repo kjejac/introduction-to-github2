@@ -4,3 +4,6 @@
 #### H4
 ##### H5
 ###### H6
+
+### Picture
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
